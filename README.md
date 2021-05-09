@@ -15,3 +15,11 @@ php artisan db:seed
 /api/product?sort=desc
 /api/product?search=something
 ```
+
+### Test
+
+/product endpoint covered with tests. You can use:
+
+```
+./vendor/bin/phpuni
+```
